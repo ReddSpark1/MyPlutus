@@ -147,6 +147,7 @@ grab d = do
                     void $ awaitTxConfirmed $ txId ledgerTx
                     logInfo @String $ "collected gifts"
 
+-- This is where th end points are defined. The PAB on the client site will interact with this.
 endpoints :: Contract () VestingSchema Text ()
 endpoints = (give' `select` grab') >> endpoints
   where
