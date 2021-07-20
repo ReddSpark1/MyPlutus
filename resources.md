@@ -13,7 +13,7 @@ This page will contain a list of every resource recommended by others on the Plu
 
 [Solutions - (courtesy of adacapo21)](https://github.com/adacapo21/plutusPioneerProgram)
 
-### Plutus
+### Plutus Doc
 [Plutus Doc](https://playground.plutus.iohkdev.io/tutorial/haddock/index.html)
 
 ### Specific Modules/topics
@@ -30,5 +30,5 @@ also
 
 [Haskell Operators Cheat Sheet](https://imada.sdu.dk/~rolf/Edu/DM22/F06/haskell-operatorer.pdf)
 
-[Building your own local Plutus doc] (https://docs.plutus-community.com/docs/setup/buildDocumentation.html)
+[Building your own local Plutus doc server](https://docs.plutus-community.com/docs/setup/buildDocumentation.html)
 
