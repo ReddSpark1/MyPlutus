@@ -23,6 +23,8 @@ also
 [this](https://alpha.marlowe.iohkdev.io/doc/haddock/plutus-ledger-api/html/src/Plutus.V1.Ledger.Contexts.html#ScriptContext)
 
 [Template Haskell](http://downloads.haskell.org/~ghc/7.8.4/docs/html/users_guide/template-haskell.html)
+also
+[this](https://wiki.haskell.org/Template_Haskell)
 
 [Minimum Ada requirement](https://cardano-ledger.readthedocs.io/en/latest/explanations/min-utxo.html)
 
