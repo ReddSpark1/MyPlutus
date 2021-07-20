@@ -55,17 +55,17 @@ instance Scripts.ValidatorTypes Vesting where
     type instance RedeemerType Vesting = ()
 
 typedValidator :: PubKeyHash -> Scripts.TypedValidator Vesting
-typedValidator = Scripts.mkTypedValidator @Vesting
-    $$(PlutusTx.compile [|| mkValidator  ||])
+typedValidator h = Scripts.mkTypedValidator @Vesting
+    ($$(PlutusTx.compile [|| mkValidator ||]) `PlutusTx.applyCode` PlutusTx.liftCode h)
     $$(PlutusTx.compile [|| wrap ||])
   where
-    wrap = Scripts.wrapValidator @PubKeyHash @POSIXTime @()
+    wrap = Scripts.wrapValidator @POSIXTime @()  
 
 validator :: PubKeyHash -> Validator
-validator = Scripts.validatorScript typedValidator -- IMPLEMENT ME!
+validator = Scripts.validatorScript . typedValidator -- IMPLEMENT ME!
 
 scrAddress :: PubKeyHash -> Ledger.Address
-scrAddress = Scripts.validatorHash typedValidator
+scrAddress = scriptAddress . validator  
 
 data GiveParams = GiveParams
     { gpBeneficiary :: !PubKeyHash
