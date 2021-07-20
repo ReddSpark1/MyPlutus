@@ -4,6 +4,8 @@
 This page will contain a list of every resource recommended by others on the Plutus Pioneers progam
 
 ### Overview
+[Cardano Documenation](https://docs.cardano.org/introduction)
+
 [Plutus platform overview](https://plutus.readthedocs.io/en/latest/plutus/explanations/platform.html)
 
 [EUTXO research paper](https://files.zotero.net/eyJleHBpcmVzIjoxNjI2Nzk2NDM0LCJoYXNoIjoiYTVhYmY4NjdiY2E2YzdkNTNjODkwNWNmZDZhYmM5MjAiLCJjb250ZW50VHlwZSI6ImFwcGxpY2F0aW9uXC9wZGYiLCJjaGFyc2V0IjoiIiwiZmlsZW5hbWUiOiJDaGFrcmF2YXJ0eSBldCBhbC4gLSAyMDIwIC0gVGhlIEV4dGVuZGVkIFVUWE8gTW9kZWwucGRmIn0%3D/429465c9e0b1622d8dc331eaeaab27dcdf6b2562b4c3135978aa20d9fdf52d12/Chakravarty%20et%20al.%20-%202020%20-%20The%20Extended%20UTXO%20Model.pdf)
