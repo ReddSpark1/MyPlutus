@@ -33,16 +33,22 @@ also
 
 [Minimum Ada requirement](https://cardano-ledger.readthedocs.io/en/latest/explanations/min-utxo.html)
 
-### Learn Haskell
-[Learn You a Haskell](http://learnyouahaskell.com/chapters)
-
-[Functional programming in Haskell - Graham Hutton, YouTube](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
-
-[Haskell Mongolia Class 2020](https://www.youtube.com/playlist?list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm)
 
 ### Misc. Reference
 
 [Haskell Operators Cheat Sheet](https://imada.sdu.dk/~rolf/Edu/DM22/F06/haskell-operatorer.pdf)
 
 [Building your own local Plutus doc server](https://docs.plutus-community.com/docs/setup/buildDocumentation.html)
+
+### Learn Haskell
+[Learn You a Haskell](http://learnyouahaskell.com/chapters)
+
+[Haskell for imperative programmers](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
+
+[Functional programming in Haskell - Graham Hutton, YouTube](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
+
+[Haskell Mongolia Class 2020](https://www.youtube.com/playlist?list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm)
+
+[Learn Haskell Programming - Tutorials Point](https://www.tutorialspoint.com/haskell/index.htm)
+
 
