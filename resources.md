@@ -8,7 +8,9 @@ This page will contain a list of every resource recommended by others on the Plu
 
 [Plutus platform overview](https://plutus.readthedocs.io/en/latest/plutus/explanations/platform.html)
 
-[EUTXO research paper](https://files.zotero.net/eyJleHBpcmVzIjoxNjI2Nzk2NDM0LCJoYXNoIjoiYTVhYmY4NjdiY2E2YzdkNTNjODkwNWNmZDZhYmM5MjAiLCJjb250ZW50VHlwZSI6ImFwcGxpY2F0aW9uXC9wZGYiLCJjaGFyc2V0IjoiIiwiZmlsZW5hbWUiOiJDaGFrcmF2YXJ0eSBldCBhbC4gLSAyMDIwIC0gVGhlIEV4dGVuZGVkIFVUWE8gTW9kZWwucGRmIn0%3D/429465c9e0b1622d8dc331eaeaab27dcdf6b2562b4c3135978aa20d9fdf52d12/Chakravarty%20et%20al.%20-%202020%20-%20The%20Extended%20UTXO%20Model.pdf)
+[Plutus Platform overview - Cardano Summit 2020](https://www.youtube.com/watch?v=usMPt8KpBeI&list=PLnPTB0CuBOBwnSOV7d25N_opV_Ii3PiGf&index=5&t=1572s)
+
+[EUTXO research paper](https://iohk.io/en/research/library/papers/the-extended-utxo-model/)
 
 ### Plutus Pioneer Program
 [Plutus Pioneer Program Lecture notes](https://plutus-pioneer-program.readthedocs.io/en/latest/index.html)
@@ -31,6 +33,12 @@ also
 
 [Minimum Ada requirement](https://cardano-ledger.readthedocs.io/en/latest/explanations/min-utxo.html)
 
+### Learn Haskell
+[Learn You a Haskell](http://learnyouahaskell.com/chapters)
+
+[Functional programming in Haskell - Graham Hutton, YouTube](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
+
+[Haskell Mongolia Class 2020](https://www.youtube.com/playlist?list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm)
 
 ### Misc. Reference
 
