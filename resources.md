@@ -17,6 +17,7 @@ This page will contain a list of every resource recommended by others on the Plu
 
 ### Plutus Doc
 [Plutus Doc](https://playground.plutus.iohkdev.io/tutorial/haddock/index.html)
+
 [Plutus Community Docs](https://docs.plutus-community.com)
 
 ### Specific Modules/topics
