@@ -29,6 +29,8 @@ This page will contain a list of every resource recommended by others on the Plu
 also
 [this](https://alpha.marlowe.iohkdev.io/doc/haddock/plutus-ledger-api/html/src/Plutus.V1.Ledger.Contexts.html#ScriptContext)
 
+[Monads](https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html#conclusion)
+
 [Template Haskell](http://downloads.haskell.org/~ghc/7.8.4/docs/html/users_guide/template-haskell.html)
 also
 [this](https://wiki.haskell.org/Template_Haskell)

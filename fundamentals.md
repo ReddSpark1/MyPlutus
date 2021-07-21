@@ -15,3 +15,7 @@ Producing transaction has to provide the hash of script and hash of the data. Fu
 Spending transaction has to provide the full script and full data
 
 ![Image](img\offchain001.jpg)
+
+On chain code: All code that is executed by the nodes at validation time (UTXO validator script or monetary policy).
+
+Off chain code: All code that is run by the wallet before sending the transaction. This code will construct the valid (or invalid) transaction to be send.
