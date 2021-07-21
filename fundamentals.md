@@ -3,6 +3,10 @@
 
 This page will contain quick notes I make on some key points I consider fundamental. Later on I will tidy them up into a proper page.
 
+### What happens when you run a PLutus script
+
+1. Validation function is compiled into Plutus core and then hashed
+2. Only the hashes are stored
 ### Scripts
 
 1. Every Plutus script is deterministic model and stored at a cardano address corresponding to the hash of that hard coded script. The script will still take in inputs, but if fed the same inputs it will always produce the same outputs. It is a closed system that does not have the ability to go outside of its sandboxed Plutus environment.
