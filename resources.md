@@ -6,6 +6,8 @@ This page will contain a list of every resource recommended by others on the Plu
 ### Overview
 [Cardano Documenation](https://docs.cardano.org/introduction)
 
+[Functional Smart contracts](https://www.youtube.com/watch?v=MpWeg6Fg0t8)
+
 [Plutus platform overview](https://plutus.readthedocs.io/en/latest/plutus/explanations/platform.html)
 
 [Plutus Platform overview - Cardano Summit 2020](https://www.youtube.com/watch?v=usMPt8KpBeI&list=PLnPTB0CuBOBwnSOV7d25N_opV_Ii3PiGf&index=5&t=1572s)
