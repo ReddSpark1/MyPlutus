@@ -1,9 +1,9 @@
-### Plutus Fundamentals
+### Quick Notes
 
 
 This page will contain quick notes I make on some key points I consider fundamental. Later on I will tidy them up into a proper page.
 
-### What happens when you run a PLutus script
+### What happens when you run a Plutus script
 
 1. Validation function is compiled into Plutus core and then hashed
 2. Only the hashes are stored
@@ -23,3 +23,6 @@ Spending transaction has to provide the full script and full data
 On chain code: All code that is executed by the nodes at validation time (UTXO validator script or monetary policy).
 
 Off chain code: All code that is run by the wallet before sending the transaction. This code will construct the valid (or invalid) transaction to be send.
+
+### Lecture 4: Part II
+
